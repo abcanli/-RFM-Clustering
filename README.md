@@ -117,11 +117,20 @@ New Customers	Recently joined	Best for onboarding campaigns
 ✔ Growth & revenue optimization
 
 ⚙️ Installation
+
 git clone https://github.com/abcanli/customer-segmentation-rfm-clustering.git
 cd customer-segmentation-rfm-clustering
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+
+👤 Author
+
+Ali Berk Canlı
+NLP/ML Analyst • Data / Product Analytics
+
+GitHub: https://github.com/abcanli
+LinkedIn: https://www.linkedin.com/in/aliberkcanlı
 
 
 
