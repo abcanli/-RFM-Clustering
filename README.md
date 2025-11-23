@@ -43,19 +43,33 @@ Clean, modular, reproducible ML project structure
 📂 Project Structure
 customer-segmentation-rfm/
 │── data/
+
 │   └── synthetic_customers.csv
+
 │── outputs/
+
 │   ├── rfm_scores.csv
+
 │   ├── cluster_assignments.csv
+
 │   └── plots/
+
 │── src/
+
 │   ├── generate_data.py
+
 │   ├── preprocess.py
+
 │   ├── rfm_clustering.py
+
 │   └── visualize.py
+
 │── requirements.txt
+
 │── README.md
+
 └── app.py
+
 
 🧪 How the Pipeline Works
 1️⃣ Generate Synthetic Customer Data
@@ -130,6 +144,7 @@ Ali Berk Canlı
 NLP/ML Analyst • Data / Product Analytics
 
 GitHub: https://github.com/abcanli
+
 LinkedIn: https://www.linkedin.com/in/aliberkcanlı
 
 
